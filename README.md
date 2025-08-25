@@ -22,7 +22,7 @@
 <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
 
 
-##👋 Hi, I’m Rajeev Kumar  
+👋 Hi, I’m Rajeev Kumar  
 💻 Frontend Developer | React.js | JavaScript | HTML | CSS | Bootstrap  
 ⚡ Experienced in building responsive, user-friendly, and scalable web applications.  
 📚 Passionate about learning new technologies and contributing to open-source projects.  
