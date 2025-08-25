@@ -22,7 +22,12 @@
 <img src="techunitbook.gif" width="49%"><img src="coder.gif" width="49%" height="300px">
 
 
-### A full stack freelancer and consultant is a professional who possesses a wide range of skills and expertise in both frontend and backend development. They have the ability to work independently or as part of a team to deliver end-to-end solutions for clients or businesses.
+##👋 Hi, I’m Rajeev Kumar  
+💻 Frontend Developer | React.js | JavaScript | HTML | CSS | Bootstrap  
+⚡ Experienced in building responsive, user-friendly, and scalable web applications.  
+📚 Passionate about learning new technologies and contributing to open-source projects.  
+🚀 Projects: Tic Tac Toe, Weather App, Image Steganography, E-commerce Website  
+
 
 <hr>
 
